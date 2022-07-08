@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "firstName": "Ayesha",
+      "lastName": "Anum",
+      "Email": "ayesha@gmail.com",
+      "Mobile": "02309023",
+      "Salary": "1200000",
+      "id": 6
+    },
+    
+    {
+      "firstName": "FUNDESI",
+      "lastName": ".fff",
+      "Email": "kkk@gmail.com",
+      "Mobile": "01144444444",
+      "Salary": null,
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
