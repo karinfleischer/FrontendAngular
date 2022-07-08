@@ -11,10 +11,12 @@ Esta version de Crud tiene los formularios con un MODAL .
 
 4- Instalar json Server ejecutar: npm install -g json-server
 
-5- npm run json-server
+5- Ejecutar en en la terminal :  npm run json-server
+
   van a ver el archivo json en http://localhost:3000/posts
   
 6- abrir una nueva terminal y ejecutar: ng serve
+http://localhost:4200/
 
 
 ## Demo Vide Link
