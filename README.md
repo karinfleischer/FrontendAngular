@@ -1,6 +1,5 @@
 # AngularSimpleCrudOperation
 
-# AngularSimpleCrudOperation
 Esta version de Crud tiene los formularios con un MODAL .
 
 1-En visual Code abrir una terminal 
